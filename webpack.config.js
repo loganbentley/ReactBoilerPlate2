@@ -23,6 +23,7 @@ module.exports = {
 		root: process.cwd(),
 		alias: {
 			Main: "app/components/Main.jsx",
+      FileDrop: "app/components/FileDrop.jsx",
 			applicationStyles: 'app/styles/app.scss',
 		},
     extensions: ['', '.js', '.jsx']
